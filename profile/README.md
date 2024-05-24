@@ -3,23 +3,39 @@
 # **FIT - Software**
 > Project start: 24.05.2024r.
 
-1. **User Service**
-    - **Zarządzanie profilami użytkowników.** 
-    - **Śledzenie aktywności użytkowników.**
-2. **Auth Service**
-    - **Autoryzacja użytkowników**
-3. **Payment Service**
-    - **Procesowanie płatności**
-    - **Generowanie faktur**
-4. **Notification Service**
-    - **Wysyłanie powiadomień SMS, e-mail etc.**
-5. **Membership Service**
-    - **Zarządzanie członkostwem uży**
-6. **Employee Service**
-7. **Facility Service**
-8. **Data Analysis Service**
-9. **Booking Service**
+---
 
+## **Domain**
+### Buisness requirements:
+1. User Service
+    1. Zarządzanie profilami użytkowników. 
+    2. Śledzenie aktywności użytkowników.
+    3. Rejestracja
+2. Auth Service
+    1. Autoryzacja użytkowników
+3. Payment Service
+    1. Procesowanie płatności
+    2. Generowanie faktur
+4. Notification Service
+    1. Wysyłanie powiadomień SMS, e-mail etc.
+5. Membership Service
+    1. Zakup członkostwa obiektu
+    2. Odnawianie członkostwa obiektu
+    3. Zarządzanie członkostwem
+6. Employee Service
+    1. Zarządzanie pracownikami
+        1. Zatrudnianie
+        2. Zwalnianie
+        3. Awanse
+        4. Przeniesienia
+7. Facility Service
+    1. Zarządzanie obiektami sportowymi
+8. Data Analysis Service
+    1. Analiza danych
+9. Booking Service
+    1. Rezerwacja obiektu
+    2. Zarządzanie harmonogramem wydarzeń
+---
 
 
 
