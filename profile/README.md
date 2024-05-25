@@ -1,15 +1,22 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/Vwxj9n8cr8OMQBXLh7dP" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+<h1 align="center">FIT Software</h1>
 
-# **FIT - Software**
+<p align="center"><b>The project is created for learning purposes. If you're impressed </b></p>
+
+```mermaid
+flowchart LR
+    A[Your] --> B{impressed?}
+    B -- Yes --> C[Hire me 😉]
+    B -- No --> E{What's wrong?}
+    E -- Code --> F[Make PR]
+```
+<h2 align="center">About</h2>
+
+Fit Software is a service designed to manage sports facilities efficiently.
+
 > Project start: 24.05.2024r. <br>
 Author: Michał Łuczak <br>
 Type: Open source <br>
 License: TODO
-
-## About
-**Project is created in learning purposes**. 
-
-Fit Software is a service designed to manage sports facilities efficiently.
 
 ### Basic feature list
 - Registration on the website.
