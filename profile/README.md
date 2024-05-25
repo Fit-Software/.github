@@ -50,7 +50,7 @@ Fit Software is a service designed to manage sports facilities efficiently.
 - The employers are able to **manage** their **employees**.
 #### Data Analysis Service
 - Data analysis service is able to **generate raports**.
-- Data analysis service is able to **collect data** and** analize** them.
+- Data analysis service is able to **collect data** and **analize** them.
 #### Class Scheduler Service
 - The user is able to sign up to individual class with instructor.
 - The user is able to sign up to group class.
