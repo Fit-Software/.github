@@ -1,15 +1,11 @@
 <h1 align="center">FIT Software</h1>
 
-<p align="center"><b>The project is created for learning purposes. If you're impressed </b></p>
+<div align="center">
+    <p><b>The project is created for learning purposes.</b></p>
+        <img src="https://i.imgflip.com/8rkzl7.jpg" title="made at imgflip.com" width="200vw"/>
+</div>
 
-```mermaid
-flowchart LR
-    A[Your] --> B{impressed?}
-    B -- Yes --> C[Hire me 😉]
-    B -- No --> E{What's wrong?}
-    E -- Code --> F[Make PR]
-```
-<h2 align="center">About</h2>
+<h2>About</h2>
 
 Fit Software is a service designed to manage sports facilities efficiently.
 
