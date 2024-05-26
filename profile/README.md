@@ -17,9 +17,9 @@ License: TODO
 ### Basic feature list
 - Registration on the website.
 - Login to the website.
-- Purchasing memberships in sport facilites.
-- Renewing memberships in sport facilites.
-- Employee management within sport facility.
+- Purchasing memberships.
+- Renewing memberships.
+- Employee management.
 - Organizing group and individual fitness classes.
 - Sending SMS notifications.
 - Sending email notifications.
@@ -28,6 +28,7 @@ License: TODO
 - Genereting raports and charts based on collected data.
 - Data analisys.
 
+<br>
 
 ## **Domain**
 > Defined buisness requirements, bounding contexts and functionalities. 
@@ -58,11 +59,10 @@ License: TODO
 - The user is able to sign up to individual class with instructor.
 - The user is able to sign up to group class.
 
+<br>
 
 ### Modules and specifications
 > Modules and their specification.
-
-
 
 #### Auth Service
 - User authorization.
