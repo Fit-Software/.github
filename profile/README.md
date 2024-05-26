@@ -56,8 +56,8 @@ License: TODO
 - Data analysis service is able to **generate raports**.
 - Data analysis service is able to **collect data** and **analize** them.
 #### Class Scheduler Service
-- The user is able to sign up to individual class with instructor.
-- The user is able to sign up to group class.
+- The user is able to **sign up** to **individual class** with instructor.
+- The user is able to **sign up** to **group class**.
 
 <br>
 
@@ -82,7 +82,7 @@ License: TODO
 #### Class Scheduler Service
 - Gym classes management.
 
+<br>
 
-
-
-<!--- Eraser file: https://app.eraser.io/workspace/Vwxj9n8cr8OMQBXLh7dP --->
+### Bounded contexts
+> Bounded contexts of modules from previous paragraph.
